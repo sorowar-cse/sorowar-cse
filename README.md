@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assalamu'ala manit taba'al huda 👋
 
 <!--
 **sorowarmahabub201032/sorowarmahabub201032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Owner:
-
+## I am
 # **Sorowar Mahabub**
 
 Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic University Chittagong (IIUC)
@@ -31,9 +30,10 @@ Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic Universi
 [Websites](sites.google.com/view/sorowarmahabub/home) (Portfolio)
 
 
-[Websites](facebook.com/sorowarmahabub.bsc.cse.iiuc) (Personal)
+[Websites](facebook.com/sorowarmahabub.bsc.cse.iiuc) (Personal/ Facebook)
 
-**Phone**
+**Phone** [ **Only whatsapp** ] :
+
 01521564157 (Mobile)
 
 
