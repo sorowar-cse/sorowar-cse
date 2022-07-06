@@ -24,7 +24,7 @@ Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic Universi
 
 
 ## **Contact Info:**
-[Clickl to see My Linkedin Profile](linkedin.com/in/sorowar-mahabub-bsc-cse-iiuc)
+[Click here to see My Linkedin Profile](linkedin.com/in/sorowar-mahabub-bsc-cse-iiuc)
 
 
 [Websites](sites.google.com/view/sorowarmahabub/home) (Portfolio)
@@ -34,7 +34,7 @@ Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic Universi
 
 **Phone** [ **Only whatsapp** ] :
 
-01521564157 (Mobile)
+# 01521564157 (Mobile)
 
 
 ## Email:
