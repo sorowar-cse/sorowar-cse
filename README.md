@@ -1,74 +1,144 @@
+<!-- ================= HEADER ================= -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+
+  <h1>
+    Assalamu'ala manit taba'al huda 👋
+  </h1>
+
+  <h2>
+    MD. Sorowar Mahabub Rabby
+  </h2>
+
+  <p>
+    🎓 Graduate Research Student | 👨‍🏫 Former Teaching Assistant <br/>
+    💻 Computer Science & Engineering | 🔬 Research Enthusiast
+  </p>
+
+  <!-- Badges -->
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/sorowar-cse">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://github.com/sorowar-cse">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://scholar.google.com/citations?user=rdzpVDcAAAAJ">
+      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+    </a>
+    <a href="https://orcid.org/0009-0004-9508-7248">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sorowar-cse&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=sorowar-cse&style=for-the-badge&color=blue" alt="profile views"/>
 </div>
 
+---
 
+<!-- ================= ABOUT ================= -->
+## 👋 About Me
 
+I am **Sorowar Mahabub Rabby**, a passionate researcher and engineer with strong interests in:
 
+- 📚 Computer Science & Engineering  
+- 📡 Electrical, Electronic & System Engineering  
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Research, Teaching, and Academic Writing  
 
+🎯 **Career Goal:**  
+To pursue a **fully funded PhD** and become a leading contributor in computer-related research and innovation.
 
+---
 
+<!-- ================= CURRENT STATUS ================= -->
+## 🎓 Current Status
 
+- 🔬 **M.Sc (Research)** — Electrical, Electronic & System Engineering  
+  **Universiti Kebangsaan Malaysia (UKM)**  
+- 👨‍🏫 **Former Undergraduate Teaching Assistant**  
+  Department of CSE, **IIUC**
+- 🚀 **Founder & Head Instructor** — *Programming Shikho*
 
-### Assalamu'ala manit taba'al huda 👋
+---
 
-<!--
-**sorowarmahabub201032/sorowarmahabub201032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ================= RESEARCH ================= -->
+## 🔬 Research & Publications
 
-Here are some ideas to get you started:
+- 📖 **11+ Conference Papers (IEEE Indexed)**
+- 📕 **Book Chapter** — *Taylor & Francis (Accepted)*
+- 🧪 Research Areas:
+  - Machine Learning & Ensemble Models
+  - Medical Imaging
+  - Smart Agriculture
+  - Federated Learning
+  - Microwave & Applied Electromagnetics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **All research works:**  
+👉 https://www.research.sorowar.me  
+👉 IEEE Xplore
 
-## I am
-# **Sorowar Mahabub**
+---
 
-Teaching Assistant(TA) || Pursuing B.Sc in CSE || International Islamic University Chittagong (IIUC)
+<!-- ================= SKILLS ================= -->
+## 🛠️ Technical Skills
 
+**Programming & Tools**
+- C, C++, Python, Java (Basic), SQL
+- HTML5, CSS3, JavaScript, React, PHP
+- MongoDB, Oracle, Git & GitHub
 
-<a href="https://stardev.io/developers/sorowar-cse"><img alt="Check out sorowar-cse's profile on stardev.io" src="https://stardev.io/developers/sorowar-cse/badge/languages/locality.svg" /></a>
+**Other Tools**
+- LaTeX, Overleaf, MATLAB, CST
+- Microsoft Office 365, Netlify, Vercel
 
+**Soft Skills**
+- Teaching & Mentoring  
+- Team Leadership  
+- Project Management  
+- Public Speaking & Presentation  
 
+---
 
-## **Contact Info:**
-[Click here to see My Linkedin Profile](linkedin.com/in/sorowar-mahabub-bsc-cse-iiuc)
+<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Achievements
 
+- 🥇 Department Topper — **CGPA 3.873 / 4.00**
+- 🎖 Multiple Scholarships & Merit Awards
+- 🎤 Conference Speaker & Paper Presenter
 
-[Websites](sites.google.com/view/sorowarmahabub/home) (Portfolio)
+---
 
+<!-- ================= CONTACT ================= -->
+## 📬 Contact Information
 
-[Websites](facebook.com/sorowarmahabub.bsc.cse.iiuc) (Personal/ Facebook)
+- 📧 **Email:**  
+  `sorowar.cse1@gmail.com`  
 
-**Phone** [ **Only whatsapp** ] :
+- 📞 **WhatsApp Only:**  
+  `+60 17-741 7099`
 
-# 01521564157 (Mobile)
+- 🌐 **Portfolio (Updating...):**  
+  <!-- ================= https://www.sorowar.me ================= -->
+  https://profile-eu7.pages.dev/
 
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/sorowar-cse
 
-## Email:
-# **sorowarmahabub.bsc.cse.iiuc@gmail.com**
+---
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
+
+<a href="https://stardev.io/developers/sorowar-cse">
+  <img alt="Stardev profile badge"
+       src="https://stardev.io/developers/sorowar-cse/badge/languages/locality.svg" />
+</a>
+
+---
+
+> 🕌 *“Indeed, with hardship comes ease.”* — **Qur’an 94:6**
+
+⭐ **If you like my work, consider starring my repositories!**
